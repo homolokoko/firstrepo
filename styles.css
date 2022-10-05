@@ -1,4 +1,12 @@
 p {
-    color: blue;
+    color: white;
     font-size: 15pt;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url(/images/Screenshot\ \(235\).png);
+    background-color: rgba(26, 26, 45, 0.749);
+    background-blend-mode: multiply;
 }
